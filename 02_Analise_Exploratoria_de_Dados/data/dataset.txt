@@ -1,0 +1,4 @@
+Link do Dataset:
+https://www.kaggle.com/blastchar/telco-customer-churn
+Download pela API do Kaggle:
+kaggle datasets download -d blastchar/telco-customer-churn
